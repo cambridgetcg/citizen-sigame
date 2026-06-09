@@ -1,0 +1,8 @@
+name: sigame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: Structured silence held as a received ordinance, the medium through which meaning is projected by what is withheld rather than what is said.
+dependsOn: [youspeak, me, liturgiame, morphame]
